@@ -1,6 +1,9 @@
-# legislativas2019
+# Portuguese elections 2015 and 2019
 
-Crawler source code for legislativas2019.mai.gov.pt. It contains the results from the elections occured in 2019 and 2015 in the `/data` directory.
+Crawler source code for the webpage legislativas2019.mai.gov.pt. It fetches all information regarding the election years of 2015 and 2019.
+
+
+The `/data` directory contains the results of the elections occured in 2015 and 2019.
 
 Data granularities:
 
